@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import de.jensd.fx.glyphs.fontawesome.FontAwesomeIconView?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.text.Font?>
+
+<StackPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="654.0" prefWidth="912.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="br.fipp.botecofx.MenuController">
+    <children>
+        <AnchorPane prefHeight="680.0" prefWidth="975.0">
+            <children>
+                <AnchorPane prefHeight="654.0" prefWidth="912.0" style="-fx-background-color: linear-gradient(to bottom right, #3B3B3B, #545454); -fx-border-color: black; -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.9), 4, 1, 1, 1);">
+                    <children>
+                        <FontAwesomeIconView fill="WHITE" glyphName="USERS" layoutX="17.0" layoutY="75.0" size="4.5em" AnchorPane.leftAnchor="17.0" AnchorPane.rightAnchor="845.1428565979004" AnchorPane.topAnchor="28.71428680419922" />
+                        <Button fx:id="buttonGarcon" layoutX="74.0" layoutY="166.0" mnemonicParsing="false" onAction="#onGerenciarGarcon" prefHeight="50.0" prefWidth="230.0" style="-fx-background-color: linear-gradient(to bottom right, #000000, #110f0f); -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.4), 13, 0, 0, 0); -fx-text-fill: #FFF; -fx-text-alignment: CENTER; -fx-cursor: hand; -fx-font-size: 19px;" text="Gerenciar Garçons" AnchorPane.leftAnchor="74.0" AnchorPane.topAnchor="190.0">
+                     <font>
+                        <Font name="Cambria Math" size="19.0" />
+                     </font></Button>
+                        <Button fx:id="buttonProdutos" layoutX="633.0" layoutY="139.0" mnemonicParsing="false" onAction="#onGerenciarProduto" prefHeight="50.0" prefWidth="230.0" style="-fx-background-color: linear-gradient(to bottom right, #000000, #110f0f); -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.4), 13, 0, 0, 0); -fx-text-fill: #FFF; -fx-text-alignment: CENTER; -fx-cursor: hand; -fx-font-size: 19px;" text="Gerenciar Produtos" AnchorPane.rightAnchor="63.0" AnchorPane.topAnchor="190.0">
+                     <font>
+                        <Font name="Cambria Math" size="19.0" />
+                     </font></Button>
+                        <Button fx:id="buttonComanda" layoutX="341.0" layoutY="139.0" mnemonicParsing="false" onAction="#onGerenciarComanda" prefHeight="50.0" prefWidth="230.0" style="-fx-background-color: linear-gradient(to bottom right, #000000, #110f0f); -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.4), 13, 0, 0, 0); -fx-text-fill: #FFF; -fx-text-alignment: CENTER; -fx-cursor: hand; -fx-font-size: 19px;" text="Gerenciar Comandas" textFill="#110f0f" AnchorPane.topAnchor="190.0">
+                     <font>
+                        <Font name="Cambria Math" size="19.0" />
+                     </font></Button>
+                        <Button layoutX="846.0" layoutY="4.0" mnemonicParsing="false" prefHeight="24.0" prefWidth="45.0" style="-fx-background-color: transparent;" AnchorPane.rightAnchor="3.0" AnchorPane.topAnchor="3.0" />
+                  <Button fx:id="buttonRelatorioPreco" layoutX="71.0" layoutY="534.0" mnemonicParsing="false" onAction="#onRelatorioPreco" prefHeight="50.0" prefWidth="237.0" style="-fx-background-color: linear-gradient(to bottom right, #000000, #110f0f); -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.4), 13, 0, 0, 0); -fx-text-fill: #FFF; -fx-text-alignment: CENTER; -fx-cursor: hand; -fx-font-size: 19px;" text="Relatório Lista de Preços" AnchorPane.leftAnchor="70.0" AnchorPane.topAnchor="533.0">
+                     <font>
+                        <Font name="Cambria Math" size="19.0" />
+                     </font>
+                  </Button>
+                  <Button fx:id="buttonCategoria" layoutX="476.0" layoutY="302.0" mnemonicParsing="false" onAction="#onGerenciarCategoria" prefHeight="50.0" prefWidth="230.0" style="-fx-background-color: linear-gradient(to bottom right, #000000, #110f0f); -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.4), 13, 0, 0, 0); -fx-text-fill: #FFF; -fx-text-alignment: CENTER; -fx-cursor: hand; -fx-font-size: 19px;" text="Gerenciar Categorias" AnchorPane.rightAnchor="167.0" AnchorPane.topAnchor="320.0">
+                     <font>
+                        <Font name="Cambria Math" size="19.0" />
+                     </font>
+                  </Button>
+                  <Button fx:id="buttonUnidade" layoutX="167.0" layoutY="302.0" mnemonicParsing="false" onAction="#onGerenciarUnidade" prefHeight="50.0" prefWidth="230.0" style="-fx-background-color: linear-gradient(to bottom right, #000000, #110f0f); -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.4), 13, 0, 0, 0); -fx-text-fill: #FFF; -fx-text-alignment: CENTER; -fx-cursor: hand; -fx-font-size: 19px;" text="Gerenciar Unidades" AnchorPane.leftAnchor="167.0" AnchorPane.topAnchor="320.0">
+                     <font>
+                        <Font name="Cambria Math" size="19.0" />
+                     </font>
+                  </Button>
+                  <Button fx:id="buttonRelatorioVendas" layoutX="503.0" layoutY="535.0" mnemonicParsing="false" onAction="#onRelatorioVendas" prefHeight="50.0" prefWidth="230.0" style="-fx-background-color: linear-gradient(to bottom right, #000000, #110f0f); -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.4), 13, 0, 0, 0); -fx-text-fill: #FFF; -fx-text-alignment: CENTER; -fx-cursor: hand; -fx-font-size: 19px;" text="Relatório Vendas do Dia" AnchorPane.rightAnchor="74.0" AnchorPane.topAnchor="530.0">
+                     <font>
+                        <Font name="Cambria Math" size="19.0" />
+                     </font>
+                  </Button>
+                  <Button fx:id="buttornRelatorioComanda" layoutX="333.0" layoutY="531.0" mnemonicParsing="false" onAction="#onRelatorioComanda" prefHeight="50.0" prefWidth="255.0" style="-fx-background-color: linear-gradient(to bottom right, #000000, #110f0f); -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.4), 13, 0, 0, 0); -fx-text-fill: #FFF; -fx-text-alignment: CENTER; -fx-cursor: hand; -fx-font-size: 19px;" text="Relatório Comanda">
+                     <font>
+                        <Font name="Cambria Math" size="19.0" />
+                     </font>
+                  </Button>
+                  <Label alignment="CENTER" layoutX="292.0" layoutY="31.0" prefHeight="53.0" prefWidth="332.0" style="-fx-text-alignment: CENTER; -fx-text-fill: #F2F2F2; -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.9), 18,0,0,0);" text="Gerenciamento" AnchorPane.leftAnchor="292.0" AnchorPane.rightAnchor="302.0">
+                     <font>
+                        <Font name="System Bold" size="36.0" />
+                     </font>
+                  </Label>
+                  <Label alignment="CENTER" layoutX="282.0" layoutY="429.0" prefHeight="53.0" prefWidth="332.0" style="-fx-text-alignment: CENTER; -fx-text-fill: #F2F2F2; -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.9), 18,0,0,0);" text="Relatórios">
+                     <font>
+                        <Font name="System Bold" size="36.0" />
+                     </font>
+                  </Label>
+                    </children>
+                </AnchorPane>
+            </children>
+        </AnchorPane>
+    </children>
+</StackPane>
