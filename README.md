@@ -8,7 +8,8 @@ Validação nos cadastros e alterações.
 
 
 
-![image](https://github.com/JhowSanchez/Trabalho-FERRO-2/assets/141513794/2eb5de83-4804-4082-805b-6b369d3a10de)
+![image](https://github.com/JhowSanchez/Trabalho-FERRO-2/assets/141513794/cc939a34-4519-4c89-9585-86da96088ed9)
+
 
 
 
@@ -19,7 +20,8 @@ Validação nos cadastros e alterações.
 
 
 
-![image](https://github.com/JhowSanchez/Trabalho-FERRO-2/assets/141513794/d5d186cd-f4dc-46e3-8574-0becd914ad1c)
+![image](https://github.com/JhowSanchez/Trabalho-FERRO-2/assets/141513794/ce0714a1-d94e-4a69-a0af-8530c1061193)
+
 
 
 
@@ -30,7 +32,8 @@ Validação nos cadastros e alterações.
 
 
 
-![image](https://github.com/JhowSanchez/Trabalho-FERRO-2/assets/141513794/60b6b083-6be8-4672-ade6-09f9b8b57779)
+![image](https://github.com/JhowSanchez/Trabalho-FERRO-2/assets/141513794/4c83b7d2-f84f-4cd6-9057-6bb715056c09)
+
 
 
 
@@ -40,7 +43,8 @@ Validação nos cadastros e alterações.
 
 
 
-![image](https://github.com/JhowSanchez/Trabalho-FERRO-2/assets/141513794/eb628eb2-34a2-4679-9cfb-efabbf63e067)
+![image](https://github.com/JhowSanchez/Trabalho-FERRO-2/assets/141513794/a9e5a5c0-3612-46e8-abee-fd9548ae9209)
+
 
 
 
@@ -50,7 +54,8 @@ Validação nos cadastros e alterações.
 
 
 
-![image](https://github.com/JhowSanchez/Trabalho-FERRO-2/assets/141513794/6e937f73-dbe7-403d-a959-a28930dd2c74)
+![image](https://github.com/JhowSanchez/Trabalho-FERRO-2/assets/141513794/0e0c466f-5a2d-4c47-bd11-53043813bfb7)
+
 
 
 
@@ -61,7 +66,8 @@ Validação nos cadastros e alterações.
 
 
 
-![image](https://github.com/JhowSanchez/Trabalho-FERRO-2/assets/141513794/316949f1-a7bb-4248-879b-7b7b8a5a2caf)
+![image](https://github.com/JhowSanchez/Trabalho-FERRO-2/assets/141513794/67e1708b-7e20-43e5-9f56-f356e602d77d)
+
 
 
 
@@ -72,7 +78,8 @@ Validação nos cadastros e alterações.
 
 
 
-![image](https://github.com/JhowSanchez/Trabalho-FERRO-2/assets/141513794/e20785bb-3dc1-47e2-9428-b03305960a8a)
+![image](https://github.com/JhowSanchez/Trabalho-FERRO-2/assets/141513794/148d376a-c68d-4800-87be-0096e43130ba)
+
 
 
 
@@ -82,7 +89,8 @@ Validação nos cadastros e alterações.
 
 
 
-![image](https://github.com/JhowSanchez/Trabalho-FERRO-2/assets/141513794/5493a404-be8b-461e-a711-c916b09c0f92)
+![image](https://github.com/JhowSanchez/Trabalho-FERRO-2/assets/141513794/9642978c-8a93-4594-b198-5c53d3cbe9f6)
+
 
 
 
@@ -92,7 +100,8 @@ Validação nos cadastros e alterações.
 
 
 
-![image](https://github.com/JhowSanchez/Trabalho-FERRO-2/assets/141513794/4ae4a896-cf1d-4d0a-affc-c2bdd99da87b)
+![image](https://github.com/JhowSanchez/Trabalho-FERRO-2/assets/141513794/228ce824-2ce0-431b-822d-a25e943ea4a0)
+
 
 
 
@@ -102,7 +111,8 @@ Validação nos cadastros e alterações.
 
 
 
-![image](https://github.com/JhowSanchez/Trabalho-FERRO-2/assets/141513794/8b4191b7-b1af-44a6-af6f-bb0b5ce39c85)
+![image](https://github.com/JhowSanchez/Trabalho-FERRO-2/assets/141513794/206a23c3-8403-4701-ae25-a86dbf6e6260)
+
 
 
 
@@ -112,4 +122,27 @@ Validação nos cadastros e alterações.
 
 
 
-![image](https://github.com/JhowSanchez/Trabalho-FERRO-2/assets/141513794/0edfc60c-5292-440f-829e-fc1ca840bb7e)
+![image](https://github.com/JhowSanchez/Trabalho-FERRO-2/assets/141513794/dcd89f05-7c96-4ffd-8f35-2b92a9add0b1)
+
+
+
+
+<h1>Relatorio Lista de Preços</h1>
+
+
+
+
+![image](https://github.com/JhowSanchez/Trabalho-FERRO-2/assets/141513794/570f53a4-672d-42d7-aa91-4b9f838aa5c7)
+
+
+
+
+<h1>Relatorio Comanda</h1>
+
+
+
+
+![image](https://github.com/JhowSanchez/Trabalho-FERRO-2/assets/141513794/025496ef-f462-47e7-afda-5c70834a3fee)
+
+
+
